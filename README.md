@@ -32,16 +32,16 @@
 <!-- Flexbox container for the stats -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin-top: 20px;">
   
-  <div style="flex: 1; min-width: 100px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamk-kol&show_icons=true&locale=en&layout=compact" alt="tamk-kol" style="width: 80%;">
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamk-kol&show_icons=true&locale=en&layout=compact" alt="tamk-kol" style="width: 30%;">
   </div>
 
-  <div style="flex: 1; min-width: 100px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tamk-kol&show_icons=true&locale=en" alt="tamk-kol" style="width: 80%;">
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tamk-kol&show_icons=true&locale=en" alt="tamk-kol" style="width: 30%;">
   </div>
 
-  <div style="flex: 1; min-width: 100px; margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamk-kol&" alt="tamk-kol" style="width: 80%;">
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamk-kol&" alt="tamk-kol" style="width: 30%;">
   </div>
 
 </div>
