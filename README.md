@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamk-kol&label=Profile%20views&color=0e75b6&style=flat" alt="tamk-kol" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://tamal-portfolio.kesug.com/](https://tamal-portfolio.kesug.com/)
+- 👨‍💻 All of my projects are available at [my website](https://tamal-portfolio.kesug.com/)
 
 - 💬 Ask me about **data analysis, data visualizations**
 
 - 📫 How to reach me **koley.tamal14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10vEHTxqkMVTkhV22RXTMjM8qDPz8lVQV/view?usp=sharing](https://drive.google.com/file/d/10vEHTxqkMVTkhV22RXTMjM8qDPz8lVQV/view?usp=sharing)
+- 📄 Know about my experiences [from my resume](https://drive.google.com/file/d/10vEHTxqkMVTkhV22RXTMjM8qDPz8lVQV/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
