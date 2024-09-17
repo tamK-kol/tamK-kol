@@ -1,4 +1,4 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*wPDfQaP-QfnxNMcHY1FqWQ.gif)
 <h1 align="center">Hi 👋, I'm Tamal Koley</h1>
 <h3 align="center">A passionate data analyst from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
