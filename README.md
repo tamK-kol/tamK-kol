@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif))
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Tamal Koley</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif](https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif)">
+<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamk-kol&label=Profile%20views&color=0e75b6&style=flat" alt="tamk-kol" /> </p>
 
