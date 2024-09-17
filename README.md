@@ -25,4 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/koley.tamal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="koley.tamal" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamk-kol&show_icons=true&locale=en&layout=compact" alt="tamk-kol" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamk-kol&show_icons=true&locale=en&layout=compact" alt="tamk-kol" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamk-kol&show_icons=true&locale=en" alt="tamk-kol" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamk-kol&" alt="tamk-kol" /></p>
