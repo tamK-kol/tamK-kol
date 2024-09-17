@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **data analysis, data visualizations**
 
-- 📫 How to reach me **koley.tamal14@gmail.com**
+- 📫 How to reach me [**koley.tamal14@gmail.com**](mailto:koley.tamal14@gmail.com)
 
 - 📄 Know about my experiences [from my resume](https://drive.google.com/file/d/10vEHTxqkMVTkhV22RXTMjM8qDPz8lVQV/view)
 
