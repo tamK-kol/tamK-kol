@@ -11,7 +11,7 @@
 
 - 📫 Just email me [**here**.](mailto:koley.tamal14@gmail.com)
 
-- 📄 Know about my past experiences [**from my resume**.](https://drive.google.com/file/d/10vEHTxqkMVTkhV22RXTMjM8qDPz8lVQV/view)
+- 📄 Know about my past experiences [**from my resume**.](https://drive.google.com/file/d/1heg_D14yYQmoBBzt2oSr5HTm-Rs4aypz/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
