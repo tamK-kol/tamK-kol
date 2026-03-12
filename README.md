@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*wPDfQaP-QfnxNMcHY1FqWQ.gif)
 <h1 align="center">Hi 👋, I'm Tamal Koley</h1>
-<h3 align="center">A passionate data analyst from India.</h3>
+<h3 align="center">A passionate business analyst from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamk-kol&label=Profile%20views&color=0e75b6&style=flat" alt="tamk-kol" /> </p>
